@@ -1,0 +1,12 @@
+site_name: The Sum
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings
+    
+nav: 
+  - Main: index.md
+  - Example 1: example_page1.md
+  - Example 2: example_page2.md
